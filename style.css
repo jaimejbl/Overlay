@@ -20,6 +20,10 @@ body{
 	background-color: rgb(141, 221, 226);
 }
 
+h1 {
+	text-align: center;
+}
+
 .galeria{
 	font-family: 'Press Start 2P';
 	font-weight: normal;
@@ -115,3 +119,30 @@ body{
 	background: rgb(151, 36, 36, 0.75);
 }
 
+.amarillo {
+	background: rgb(255, 255, 44, 0.75);
+}
+
+.azul {
+	background: rgb(12, 163, 148, 0.75);
+}
+
+.gris {
+	background: rgba(128, 128, 128, 0.75);
+}
+
+.morado {
+	background: rgb(177, 126, 213, 0.75);
+}
+
+.cyan {
+	background: rgb(203, 240, 252, 0.75);
+}
+
+.verde {
+	background: rgb(120, 240, 120, 0.75);
+}
+
+.rosa {
+	background: rgb(247, 172, 183, 0.75);
+}
